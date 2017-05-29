@@ -131,7 +131,7 @@ def audit_v(is_cafe, tag):
     if tag.attrib['k']=='building':
         if v not in building_mapping.keys():
             cb = correct_building(v)
-            #print('Mapped: ' + v + ' => ' + cb)
+            print('Mapped: ' + v + ' => ' + cb)
         else: cb = building_mapping[v]
         return cb
 
@@ -148,7 +148,7 @@ def audit_v(is_cafe, tag):
     # map phone
     elif tag.attrib['k']=='phone':  
         cf = correct_phone(v)      
-        #print('Mapped: ' + v + ' => ' + cf)
+        print('Mapped: ' + v + ' => ' + cf)
         return cf
 
     return v
