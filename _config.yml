@@ -1,1 +1,9 @@
+
+---
+title:  "Wrangle OpenStreetMaps with SQL"
+description: "Ioannis Karakasoglou Breier"
 theme: jekyll-theme-slate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+---
