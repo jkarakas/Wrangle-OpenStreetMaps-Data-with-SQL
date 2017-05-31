@@ -1,5 +1,5 @@
 
-<img src="Metro-Extracts_Warsaw.png" alt="Metro-Extracts_Warsaw" style="width: 200px;"/>
+
 
 [OpenStreetMap](https://www.openstreetmap.org) is a free, editable map of the whole world that is being built by volunteers largely from scratch and released with an open-content license.  
 The [OpenStreetMap License](https://www.openstreetmap.org/copyright) allows free (or almost free) access to the map images and all of our underlying map data. The project aims to promote new and interesting uses of this data.
@@ -11,6 +11,8 @@ In this Project, I choose a map of Warsaw from the OSM and use data munging tech
 * Audit map data for validity, accuracy, completeness,consistency and uniformity.
 * Fix the problems encountered and export the audited data from XML to CSV format .
 * Store the CSV's into an sqlite database (using the selected schema) and use SQL to query and aggregate the stored data.
+
+<img src="Metro-Extracts_Warsaw.png" alt="Metro-Extracts_Warsaw" style="width: 400px;"/>
 
 ## Description
 
