@@ -14,7 +14,7 @@ In this Project, I choose a map of Warsaw from the OSM and use data munging tech
 
 
 
-## Description
+## Files
 
 * [report.html](report.html) - The report documenting the audit process and SQL-query & aggregation findings.
 
