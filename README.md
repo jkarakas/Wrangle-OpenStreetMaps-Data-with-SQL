@@ -18,7 +18,7 @@ In this Project, I choose a map of Warsaw from the OSM and use data munging tech
 
 * [report.html](report.html) - The report documenting the audit process and SQL-query & aggregation findings.
 
-* [data.py](data.py) - Audit (using [audit.py](audit.py)) the `warsaw-poland.OSM` map  given as argument and write it in the following CSV files(with the corresponding[headers]:
+* [data.py](data.py) - Audit (using [audit.py](audit.py)) the `warsaw-poland.OSM` map   and write it in the following CSV files(with the corresponding[headers]:
 
 
 		   warsaw_poland_nodes.csv.......... ['id', 'lat', 'lon', 'user', 'uid', 'version', 'changeset', 'timestamp']
