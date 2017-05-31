@@ -12,7 +12,7 @@ In this Project, I choose a map of Warsaw from the OSM and use data munging tech
 * Fix the problems encountered and export the audited data from XML to CSV format .
 * Store the CSV's into an sqlite database (using the selected schema) and use SQL to query and aggregate the stored data.
 
-<img src="Metro-Extracts_Warsaw.png" alt="Metro-Extracts_Warsaw" style="width: 400px;"/>
+
 
 ## Description
 
