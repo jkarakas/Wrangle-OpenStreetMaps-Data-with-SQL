@@ -1,5 +1,5 @@
 
-
+<img src="Metro-Extracts_Warsaw.png" alt="Metro-Extracts_Warsaw" style="width: 400px;"/>
 [OpenStreetMap](https://www.openstreetmap.org) is a free, editable map of the whole world that is being built by volunteers largely from scratch and released with an open-content license.  
 The [OpenStreetMap License](https://www.openstreetmap.org/copyright) allows free (or almost free) access to the map images and all of our underlying map data. The project aims to promote new and interesting uses of this data.
 
