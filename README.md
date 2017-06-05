@@ -1,4 +1,4 @@
-# OpenStreetMap Data Wrangling and querying with SQL
+# OpenStreetMap Data Wrangling and Querying with SQL
 
 <img src='./Metro-Extracts_Warsaw.png' width="350" height="350" />
 <br>
@@ -13,9 +13,14 @@ In this Project, I choose a map of Warsaw from the OSM and use data munging tech
 * Fix the problems encountered and export the audited data from XML to CSV format .
 * Store the CSV's into an sqlite database (using the selected schema) and use SQL to query and aggregate the stored data.
 
+## Requirements
+
+ - Python 2.7
+ - sqlite
+ - Pandas
 
 
-## Files
+## Usage
 
 * [report.html](report.html) - The report documenting the audit process and SQL-query & aggregation findings.
 
