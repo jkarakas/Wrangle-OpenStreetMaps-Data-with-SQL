@@ -22,7 +22,7 @@ In this Project, I choose a map of Warsaw from the OSM and use data munging tech
 
 ## Usage
 
-* [report.html](report.html) - The report documenting the audit process and SQL-query & aggregation findings.
+* [report.html](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/report.html) - The report documenting the audit process and SQL-query & aggregation findings.
 
 * [data.py](data.py) - Audit (using [audit.py](audit.py)) the `warsaw-poland.OSM` map   and write it in the following CSV files(with the corresponding[headers]:
 
